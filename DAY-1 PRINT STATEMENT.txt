@@ -3,8 +3,11 @@ Date: 18th April 2022 Monday
 Name: kavuri venkatesh reddy
 File Desc: print statement
 """
-'''print> to print something or display some
-message on the screen'''
+'''
+--->print> to print something or display some message on the screen
+--->The print() function prints the specified message to the screen, or other standard output device.
+--->The message can be a string, or any other object, the object will be converted into a string before written to the screen
+'''
 print('python') #python
 print("python") #python
 print('python"fullstack') #python"fullstack
