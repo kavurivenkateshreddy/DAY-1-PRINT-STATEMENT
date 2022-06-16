@@ -33,7 +33,7 @@ The shortcut for keeping or removing the single line comment is ctrl+/
 2) Multiline comment
 
 --->It is represented by three times single quotes or three timesdouble quotes.
-Ex:  
+Ex:  """
 """
 Name:
 Date & Day: 
